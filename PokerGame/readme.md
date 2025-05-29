@@ -46,6 +46,7 @@
 --100번--
 
 --------------result--------------
+
 hyunsoo   | gameMoney : 13100  | Wins : 31  | Loses : 69  
 chanwoo   | gameMoney : 12600  | Wins : 26  | Loses : 74  
 heesung   | gameMoney : 12200  | Wins : 22  | Loses : 78  
